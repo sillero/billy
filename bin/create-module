@@ -1,0 +1,4 @@
+#!/bin/bash
+
+redux g module $1
+./bin/reindex-modules

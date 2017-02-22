@@ -1,0 +1,4 @@
+#!/bin/bash
+
+rm -rf src/components/index.js
+redux g components index

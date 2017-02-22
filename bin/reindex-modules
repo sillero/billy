@@ -1,0 +1,4 @@
+#!/bin/bash
+
+rm -rf src/modules/index.js
+redux g modules index

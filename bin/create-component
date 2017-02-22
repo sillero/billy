@@ -1,0 +1,4 @@
+#!/bin/bash
+
+redux g component $1
+./bin/reindex-components

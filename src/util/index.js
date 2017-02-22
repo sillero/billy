@@ -1,0 +1,1 @@
+export { default as actionCreator } from './action-creator'
